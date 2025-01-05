@@ -1,0 +1,22 @@
+{
+    "fonts": [
+        {
+            "aifont": "Impact",
+            "family": "Amatic SC",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "TabletGothicCondensed-Regular",
+            "family": "Tablet Gothic Condensed",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "IBMPlexSans",
+            "family": "IBM Plex Sans",
+            "weight": "400",
+            "style": ""
+        }
+    ]
+}
